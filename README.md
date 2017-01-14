@@ -19,6 +19,7 @@ Then, edit your email and password in <code>index.js</code> and <code>index.py</
 ##File importance
 * <code>index.py</code> does everything but monitoring the messages
 * <code>index.js</code> monitors your fb messages
+* shittalk.txt contains the insults dataset. [Source](http://daviseford.com/shittalk/)
 
 ##Contributors
 Andy Kamath!
