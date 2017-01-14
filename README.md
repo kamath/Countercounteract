@@ -1,5 +1,6 @@
 #Countercounteract
 ![logo](logo.png)
+<br>
 This repo is the opposite of what [Counteract](http://github.com/CounteractIO/Counteract) was supposed to achieve. Please give us a star!
 
 Instead of tweeting happy messages at people, Countercounteract uses your Facebook Messenger to be sassy to your friends. 
